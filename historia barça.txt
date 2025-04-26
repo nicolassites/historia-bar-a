@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>História do Barcelona e da Torcida</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #004D98;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5rem;
+        }
+        .section {
+            padding: 40px;
+            text-align: center;
+        }
+        .history, .fans {
+            margin: 20px 0;
+        }
+        .image-gallery {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .image-gallery img {
+            width: 200px;
+            height: auto;
+            border-radius: 8px;
+        }
+        footer {
+            background-color: #004D98;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>História do FC Barcelona e da Torcida</h1>
+    </header>
+
+    <div class="section history">
+        <h2>História do FC Barcelona</h2>
+        <p>
+            O FC Barcelona foi fundado em 1899 por um grupo de jogadores e empresários suíços, catalães, alemães e ingleses liderados por Joan Gamper. Desde então, o clube se tornou uma das equipes mais bem-sucedidas e populares do mundo, com uma rica história de conquistas tanto na Espanha quanto em competições internacionais.
+        </p>
+        <p>
+            Conhecido por seu estilo de jogo único, o "tiki-taka", e por suas lendas como Lionel Messi, Johan Cruyff e Xavi, o Barcelona se tornou um símbolo da cultura catalã e da luta
